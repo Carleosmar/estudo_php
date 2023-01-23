@@ -1,0 +1,9 @@
+Objetivo de cada tag:
+
+header: cabeçalho
+main: principal
+footer: Ropadé
+
+----------------------------
+
+Grid: definir linhas e colunas e colocar os elementos dentro dessa linha e coluna
