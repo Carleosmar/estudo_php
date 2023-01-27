@@ -7,3 +7,13 @@ footer: Ropadé
 ----------------------------
 
 Grid: definir linhas e colunas e colocar os elementos dentro dessa linha e coluna
+
+
+
+
+9EV3RB
+
+sentença de codigo php termina com ;
+
+ctrl + alt + j: Para selecionar a linguagem para codar no
+vscode.
