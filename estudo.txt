@@ -17,3 +17,12 @@ sentença de codigo php termina com ;
 
 ctrl + alt + j: Para selecionar a linguagem para codar no
 vscode.
+-------------------------------------------
+PRECEDENCIA
+()
+**
+/ OU *
++ OU -
+------------------------------------
+.: Utilizado para concatena.
+
