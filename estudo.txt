@@ -26,3 +26,5 @@ PRECEDENCIA
 ------------------------------------
 .: Utilizado para concatena.
 
+CONSTANTE VALOR QUE NÃO PODE SER ALTERADO
+
