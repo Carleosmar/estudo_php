@@ -30,3 +30,6 @@ CONSTANTE VALOR QUE NÃO PODE SER ALTERADO
 
 &&: ans
 ||: or
+
+
+indice: [] : Representar a posição ocupada no array.
