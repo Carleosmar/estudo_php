@@ -22,6 +22,11 @@
                                     Array
                                 </a>
                             </li>
+                            <li>
+                                <a href="exercicio.php?dir=array&file=mapa">
+                                    Mapa
+                                </a>
+                            </li>
                         </ul> 
                 </div> 
                 <div class="modulo roxo">
