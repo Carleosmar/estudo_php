@@ -11,18 +11,26 @@ Usar o for
 -->
 
 <?php
-
+/*
 $array = ['#','##', '###', '####', '#####'];
 
 for($i = 0; $i < count($array); $i++) {
     echo "$array[$i] <br>";
+}*/
+
+$impressao = '';
+
+for($cont = 1; $cont <= 5; $cont++) {
+    $impressao .= '#';
+    echo "$impressao <br>";
 }
+
 
 echo '<hr>';
 
-for($i2 = '#';
-    $i2 !== '######';
+for($i2 = '#'; 
+    $i2 !== '######'; 
     $i2 .= '#') {
         echo "$i2 <br>";
-    }
+}
 
