@@ -18,6 +18,16 @@
                     <h3>6. Repetições</h3>
                         <ul>
                             <li>
+                                <a href="exercicio.php?dir=repeticoes&file=desafio_tabela">
+                                    Desafio Tabela
+                                </a>
+                            </li>
+                            <li>
+                                <a href="exercicio.php?dir=repeticoes&file=while">
+                                    While/Do While
+                                </a>
+                            </li>
+                            <li>
                                 <a href="exercicio.php?dir=repeticoes&file=desafio_impressao">
                                     Desafio Impressão
                                 </a>
