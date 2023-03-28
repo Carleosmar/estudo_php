@@ -18,6 +18,16 @@
                     <h3>6. Repetições</h3>
                         <ul>
                             <li>
+                                <a href="exercicio.php?dir=repeticoes&file=minha_tabela2">
+                                    Minha Tabela 2
+                                </a>
+                            </li>
+                            <li>
+                                <a href="exercicio.php?dir=repeticoes&file=minha_tabela">
+                                    Minha Tabela
+                                </a>
+                            </li>
+                            <li>
                                 <a href="exercicio.php?dir=repeticoes&file=desafio_tabela2">
                                     Desafio Tabela #02
                                 </a>
