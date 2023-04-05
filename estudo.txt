@@ -33,3 +33,9 @@ CONSTANTE VALOR QUE NÃO PODE SER ALTERADO
 
 
 indice: [] : Representar a posição ocupada no array.
+
+
+Função serve reutilizar codigos.
+
+
+escopo: Se refere que a Variavel que está dentro da função
