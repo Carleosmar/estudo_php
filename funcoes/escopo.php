@@ -18,19 +18,20 @@ function trocarValor() {
     echo "Durante a função: $variavel <br>";
 }
 
-echo "Antes $variavel <br>";
+echo "Antes: $variavel <br>";
 trocarValor();
-echo "Antes $variavel <br>";
+echo "depois: $variavel <br>";
 
 
-function trocarValorDeVerdade() {
+function trocaValorDeVerdade() {
     global $variavel;
     $variavel = 3;
     echo "Durante a função: $variavel <br>";
 }
 
-echo "Antes $variavel <br>";
-trocarValorDeVerdade();
-echo "Antes $variavel <br>";
+echo "Antes: $variavel <br>";
+trocaValorDeVerdade();
+echo "Depois: $variavel <br>";
 
-var_dump(trocarValorDeVerdade());
+
+var_dump(trocaValorDeVerdade());
