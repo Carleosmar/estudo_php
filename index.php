@@ -18,6 +18,16 @@
                     <h3>7. Funções</h3>
                         <ul>
                             <li>
+                                <a href="exercicio.php?dir=funcoes&file=args_variaveis">
+                                    Argumentos Variáveis
+                                </a>
+                            </li>
+                            <li>
+                                <a href="exercicio.php?dir=funcoes&file=palindromo">
+                                    Desafio palindromo
+                                </a>
+                            </li>
+                            <li>
                                 <a href="exercicio.php?dir=funcoes&file=args_retorno">
                                     Argumentos & Retornos
                                 </a>
