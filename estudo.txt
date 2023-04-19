@@ -45,3 +45,20 @@ Argumentos:
 Numa função é melhor usar um return do que um echo. Pois será mais facil altera os dados da função.
 
 &$xxxxxx: Endereço da variavel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
