@@ -18,6 +18,21 @@
                     <h3>7. Funções</h3>
                         <ul>
                             <li>
+                                <a href="exercicio.php?dir=funcoes&file=anonimas">
+                                    Funções Anônimas
+                                </a>
+                            </li>
+                            <li>
+                                <a href="exercicio.php?dir=funcoes&file=usando_tipos">
+                                    Usando Tipos
+                                </a>
+                            </li>
+                            <li>
+                                <a href="exercicio.php?dir=funcoes&file=arg_padrao">
+                                    Argumento padrão
+                                </a>
+                            </li>
+                            <li>
                                 <a href="exercicio.php?dir=funcoes&file=args_variaveis">
                                     Argumentos Variáveis
                                 </a>
