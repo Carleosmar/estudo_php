@@ -63,6 +63,11 @@
                     <h3>6. Repetições</h3>
                         <ul>
                             <li>
+                                <a href="exercicio.php?dir=repeticoes&file=lista">
+                                    lista
+                                </a>
+                            </li>
+                            <li>
                                 <a href="exercicio.php?dir=repeticoes&file=minha_tabela2">
                                     Minha Tabela 2
                                 </a>
@@ -316,6 +321,11 @@
                 <div class="modulo verde">
                     <h3>1. Básico</h3>
                     <ul>
+                        <li>
+                            <a href="exercicio.php?dir=basico&file=resto">
+                                Resto
+                            </a>
+                        </li>
                         <li>
                             <a href="exercicio.php?dir=basico&file=ola">
                                 Olá PHP
