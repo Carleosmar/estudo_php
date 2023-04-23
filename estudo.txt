@@ -48,6 +48,7 @@ Numa função é melhor usar um return do que um echo. Pois será mais facil alt
 
 callable: garante se uma função pode ser chamada
 
+use: Ferramenta utilizada para retorna uma outra função.
 
 
 
