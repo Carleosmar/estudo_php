@@ -50,6 +50,22 @@ callable: garante se uma função pode ser chamada
 
 use: Ferramenta utilizada para retorna uma outra função.
 
+Map: serve para tranformar um array em outro array,
+elemento em outro elemento.
+
+filter é o que faz a transformação.
+
+map: Usar uma função que ja ésta pronta.
+
+filter:Trás uma função. 
+
+
+
+
+
+
+
+
 
 
 
