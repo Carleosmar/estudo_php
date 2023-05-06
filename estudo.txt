@@ -58,6 +58,44 @@ filter é o que faz a transformação.
 map: Usar uma função que ja ésta pronta.
 
 filter:Trás uma função. 
+------------------------------------------------
+POO
+
+Classe:Toda classe tem um bloco de codigo associado. Que é exatamente o corpo da classe.
+
+Corpo: tem atributos e comportamentos que por sua vez tem metodos(funções)
+
+Classe tem atributos e metodos.
+
+Todo objeto do mundo real tem atributos e comportamentos assim como um classe.
+
+classe define um tipo(Curso, aluno, tutor).
+
+classe representa uma abstração <- simplificação do mundo real
+conceitos poderem ser similar abstração não.
+
+Classe representa a estrutura de dados.
+
+Objeto: quando se criar um dado apartir de uma classe falamos que criamos um objeto da classe.
+objeto pode ser chamado de instaciar.
+
+Classe pode criar N objetos.
+
+Construtor é um metodo especial que é focado em criar objetos a partir 
+de classe. Construtor gera um outro objeto
+
+Classe é a estrutura de dados e o objeto é o dado.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
