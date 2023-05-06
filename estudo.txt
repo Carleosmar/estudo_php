@@ -86,13 +86,18 @@ de classe. Construtor gera um outro objeto
 
 Classe é a estrutura de dados e o objeto é o dado.
 
+Membros são atributos e comportamentos em outra palavars usado
+para referenciar tudo que pertence a uma classe.
 
+Destrutor é chamado quando um objeto ta para ser destruido
 
+Inicial das palavras classe deve ser com letra maiuscula
 
+public: modificador de visibilidade
 
+new: Usado para criar um objeto a partir de uma classe
 
-
-
+this: apontar para o objeto ou instaciar atual.
 
 
 
