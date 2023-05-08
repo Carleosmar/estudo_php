@@ -99,6 +99,29 @@ new: Usado para criar um objeto a partir de uma classe
 
 this: apontar para o objeto ou instaciar atual.
 
+unset: usado para chamar o destrutor
+
+paradgma prodedural é baseado em procedimentos.
+
+Prosedural(função)
+
+O.O(dado)
+
+Objeto é o que tem uma função.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

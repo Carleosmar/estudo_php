@@ -18,6 +18,11 @@
                     <h3>8. Paradigma O.O</h3>
                         <ul>
                             <li>
+                                <a href="exercicio.php?dir=classes_objetos&file=construtor_destrutor">
+                                    Construtor e Destrutor
+                                </a>
+                            </li>
+                            <li>
                                 <a href="exercicio.php?dir=classes_objetos&file=classe_data">
                                     Desafio Data
                                 </a>
