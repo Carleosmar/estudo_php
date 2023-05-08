@@ -109,9 +109,18 @@ O.O(dado)
 
 Objeto é o que tem uma função.
 
+Encapsulamento: É referente um metodo existente que não sabemos como funcionar.
 
+Capsula->OBJETO->atributo, metodo
 
+o encapsulamento é feito pelos modificadores de acesso.
 
+Private o membro é visivel apenas dentro da classe.
+
+protected: O atributo é visivel apenas dentro da classe e é transmitido por herança
+
+public:O atributo é visivel apenas dentro da classe e é transmitido por herança
+e ainda é visivel para qualquer outro codigo acessar aquele membro
 
 
 
