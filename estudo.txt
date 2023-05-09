@@ -121,6 +121,28 @@ protected: O atributo é visivel apenas dentro da classe e é transmitido por he
 
 public:O atributo é visivel apenas dentro da classe e é transmitido por herança
 e ainda é visivel para qualquer outro codigo acessar aquele membro
+--------------------------------------------------
+
+Herança: Surgir com uma necessidade de reuso de codigo
+
+O reuso de codigo tem a composição ou a herança.
+
+Composição é relacionado a ...tem um(a)...(Um objeto é formado por outro)
+ex: carro tem um motor
+ex: carro tem portas
+
+Herança é ...um(a)...
+ex: Civic é um carro
+ex: gato é um mamifero
+
+Super classe(+generica): é a classe pai mais tambem pode ser que ela seja uma subclasse
+
+sub classe(+especifica):É a classe filha
+
+A hieraquia pode não ter uma relação de herança
+---------------------------------------------
+
+polimorfismo: Multiplas formas
 
 
 
