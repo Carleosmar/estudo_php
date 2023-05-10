@@ -144,6 +144,10 @@ A hieraquia pode não ter uma relação de herança
 
 polimorfismo: Multiplas formas
 
+polimofismo estatico: É a sobrecarga de metodo.
+
+polimofismo dinamico primeiro tem que ter uma herança. E ele é mais associado em linguagens que são fortemente Tipadas.
+
 abstração é referente a adicionar informações relevante do mundo real no software
 
 
