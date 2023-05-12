@@ -140,6 +140,8 @@ Super classe(+generica): é a classe pai mais tambem pode ser que ela seja uma s
 sub classe(+especifica):É a classe filha
 
 A hieraquia pode não ter uma relação de herança
+
+
 ---------------------------------------------
 
 polimorfismo: Multiplas formas
@@ -150,12 +152,17 @@ polimofismo dinamico primeiro tem que ter uma herança. E ele é mais associado 
 
 abstração é referente a adicionar informações relevante do mundo real no software
 
+extends: cria uma extensão de outra classe(Herança)
 
+parent: Usado para chamar o objeto pai 
 
+Toda instacia tem acessso algum valor static.
 
+self: usado para acessa um membro static.
 
+Função estatica não pode ser acessada através do this
 
-
+X:: metodo para acessar função estatica
 
 
 
