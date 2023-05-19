@@ -164,9 +164,17 @@ Função estatica não pode ser acessada através do this
 
 X:: metodo para acessar função estatica
 
+Interface em PHP tem apenas os metodos
 
+Uma classe pode implementa multiplas interface.
+---------------------------------------------
 
+Classe abstratas: tem metodos implementados e não implementados
 
+Interface tem 0% dos metodos implementados
+Classe concreta tem 100% dos metodos implementados.
+
+Classe abstrata não pode ser instaciada
 
 
 
