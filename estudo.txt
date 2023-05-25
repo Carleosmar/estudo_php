@@ -176,6 +176,9 @@ Classe concreta tem 100% dos metodos implementados.
 
 Classe abstrata não pode ser instaciada
 
+classe concreta só pode ser instaciada se todos os metodos 
+forem instaciados.
+
 
 
 
