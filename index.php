@@ -253,6 +253,11 @@
                     <h3>4. Controles</h3>
                         <ul>
                             <li>
+                                <a href="exercicio.php?dir=controle&file=preparacao">
+                                    Preparação entrevista
+                                </a>
+                            </li>
+                            <li>
                                 <a href="exercicio.php?dir=controle&file=if_else">
                                     If Else
                                 </a>
