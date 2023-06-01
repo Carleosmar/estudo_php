@@ -179,6 +179,7 @@ Classe abstrata não pode ser instaciada
 classe concreta só pode ser instaciada se todos os metodos 
 forem instaciados.
 
+trait: é uma forma de reuso de codigo.
 
 
 
