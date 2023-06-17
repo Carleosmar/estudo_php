@@ -180,7 +180,9 @@ classe concreta só pode ser instaciada se todos os metodos
 forem instaciados.
 
 trait: é uma forma de reuso de codigo.
-
+-----------------------------------------------------
+__get: utilizado para acessar um atributo que não está 
+disponivel.
 
 
 
