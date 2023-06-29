@@ -183,6 +183,11 @@ trait: é uma forma de reuso de codigo.
 -----------------------------------------------------
 __get: utilizado para acessar um atributo que não está 
 disponivel.
+------------------------------------------------------------------------------
+
+require: gera um fatal error
+
+
 
 
 
