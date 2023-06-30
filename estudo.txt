@@ -187,6 +187,8 @@ disponivel.
 
 require: gera um fatal error
 
+__DIR__:Constante usada 
+
 
 
 

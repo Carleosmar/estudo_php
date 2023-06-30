@@ -18,6 +18,16 @@
                     <h3>9. Includes</h3>
                         <ul>
                             <li>
+                                <a href="exercicio.php?dir=includes&file=include_once">
+                                    Include Once
+                                </a>
+                            </li>
+                            <li>
+                                <a href="exercicio.php?dir=includes&file=require_retorno">
+                                    Require & return
+                                </a>
+                            </li>
+                            <li>
                                 <a href="exercicio.php?dir=includes&file=include_require">
                                     Include vs Require
                                 </a>
