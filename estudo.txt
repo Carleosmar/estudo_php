@@ -188,6 +188,11 @@ disponivel.
 require: gera um fatal error
 
 __DIR__:Constante usada 
+**********************************************
+
+Name space: serve para dividi a aplicação em espaço e nomes.
+
+constante não usa o dolar
 
 
 
