@@ -3,8 +3,18 @@
         <h3>10. Namespace</h3>
             <ul>
                 <li>
+                    <a href="exercicio.php?dir=namespace&file=use_as">
+                        Use/As
+                    </a>
+                </li>
+                <li>
                     <a href="exercicio.php?dir=namespace&file=basico">
                         Exemplo básico
+                    </a>
+                </li>
+                <li>
+                    <a href="exercicio.php?dir=namespace&file=sub_namespace">
+                        Sub-Namespaces
                     </a>
                 </li>
             </ul>
