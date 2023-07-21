@@ -193,7 +193,11 @@ __DIR__:Constante usada
 Name space: serve para dividi a aplicação em espaço e nomes.
 
 constante não usa o dolar
+***************************************************
+SESSÃO
+session_start(): Comando usado para iniciar uma sessão
 
+O id deve ser regerado de tempo em tempos por uma questão de segurança.
 
 
 
