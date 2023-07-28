@@ -199,7 +199,11 @@ session_start(): Comando usado para iniciar uma sessão
 
 O id deve ser regerado de tempo em tempos por uma questão de segurança.
 
+ctrl + shift + r: Para força o reinicio da pagina.
+*************************************************************************
+API
 
+interface de aplicação de aplicativo
 
 
 
