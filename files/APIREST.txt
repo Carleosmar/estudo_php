@@ -1,0 +1,60 @@
+API: É uma interface que permite a comunicação entre
+duas aplicações diferentes.
+
+http: permite a comunicação entre maquina diferents
+
+Verbos HTTP:São tipo de comunicação com servidor.
+
+Status code: Codigo padronizado para comunicar ao 
+clienteo status de uma requisição HTTP, ou seja, o
+resultado de uma requisição HTTP.Sucesso?Erro? Não autorizada?
+etc.
+
+200 Sucesso
+500 error no servidor
+
+Rotas: São simplesmente URL
+Endereços para alcançar um recurso único.
+
+json: É uma maneira de transporta dados na web
+cliente>>servidor
+
+ApiRest: Um conjunto de restrição para criação de API
+Utilizar de forma apdronizada o protocolo HTTP.
+
+Rest: Criar e utilizar de forma restrita o que
+o HTTP nos fornece, como
+
+Status code
+Verbos
+Padrão para URIs (rotas), etc
+
+RESTfull: É uma APIREST que abrange todods os 4 niveis
+conformidade com a arquitetura REST.
+
+Como testar uma API?
+postman e Insomnia
+
+CRUD: É um acronimo para create(criar), Read(ler), 
+Update(atualizar) e Delete(apagar)
+
+CRUD é uma sequencia de funções de um sistema
+que trabalha com banco de dados seja ele na sua 
+maquina ou na nuvem.
+
+Arquitetura MVC
+
+MVC: permite dividi o desenvolvimento da aplicação
+em tres camadas conceituais: Model, View e Controller.
+
+Model lida diretamente com os dados
+
+Controller é aonde fica a maior parte da logica da aplicação
+
+View aonde os dados são exibidos
+
+
+
+
+
+

@@ -204,6 +204,14 @@ ctrl + shift + r: Para força o reinicio da pagina.
 API
 
 interface de aplicação de aplicativo
+************************************************************
+
+filesize: para indetificar o tamanho.
+fgets: Mostra as linhas
+fgetc: mostra os caracteres
+
+A função feof verifica o indicador de fim de arquivo 
+
 
 
 
