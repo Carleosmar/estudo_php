@@ -31,7 +31,7 @@ if(isset($_FILES['arquivo'])) {
 <ul>
     <?php foreach($arquivos as $arquivo): ?>
         <li>
-            <a href="../files/<?= $arquivo ?>">
+            <a href="./files/<?= $arquivo ?>" Download="<?= $arquivo ?>">
                 <?= $arquivo ?>
             </a>
         </li>
