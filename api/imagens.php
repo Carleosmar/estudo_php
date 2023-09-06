@@ -34,7 +34,7 @@ print_r($arquivos);
 <?php foreach($arquivos as $arquivo): ?>
         <?php if(stripos($arquivo, '.jpg') > 0): ?>
             <li>
-                <img src="../files/<?= $arquivo ?>"
+                <img src="./files/<?= $arquivo ?>"
                     height="120" />
             </li>
         <?php endif ?>
