@@ -15,7 +15,7 @@ if(count($_POST) > 0) {
 
     if(filter_input(INPUT_POST, "nascimento")) {
         $data = DateTime::createFromFormat(
-            'd/m/y', $_POST["nascimento"]);
+            'd/m/Y', $_POST["nascimento"]);
             if(!$data) {
                 $erros['nascimento'] = 'Data deve está no padrão DD/mm/aaaa';
             }
