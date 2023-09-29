@@ -3,6 +3,11 @@
         <h3>15. BD</h3>
             <ul>
                 <li>
+                    <a href="exercicio.php?dir=db&file=consultar">
+                        Consultar Registro
+                    </a>
+                </li>
+                <li>
                     <a href="exercicio.php?dir=db&file=inserir_1">
                         Inserir Registro #01
                     </a>
