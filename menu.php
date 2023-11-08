@@ -3,6 +3,16 @@
         <h3>15. BD</h3>
             <ul>
                 <li>
+                    <a href="exercicio.php?dir=db&file=alterar_pdo">
+                        PDO: Alterar
+                    </a>
+                </li>
+                <li>
+                    <a href="exercicio.php?dir=db&file=excluir_pdo">
+                        PDO: Excluir
+                    </a>
+                </li>
+                <li>
                     <a href="exercicio.php?dir=db&file=consulta_pdo">
                          PDO: Consultar
                     </a>

@@ -32,9 +32,9 @@ if($stmt->execute()) {
 
 echo "<hr>";
 
-$sql = "SELECT * FROM cadastro WHERE id = ?";
+$sql = "SELECT * FROM cadastro WHERE id = :id";
 $stmt = $conexao->prepare($sql);
-if($stmt->execute([1])) {
+if($stmt->execute([':id' => 8])) {
     $resultado = $stmt->fetch();
     print_r($resultado);
 } else {
@@ -42,8 +42,13 @@ if($stmt->execute([1])) {
     print_r($stmt->errorInfo());
 }
 
-$conexao->close();
 
-//$conexao = null;
+//$conexao->close();
+$conexao = null;
+
+//unset($conexao);
+
+//session_write_close();
+//mysql_close($conexao);
 //$conexao->closeCursor();
 //unset($conexao); // Fecha a conexão PDO
